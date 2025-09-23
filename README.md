@@ -1,4 +1,4 @@
-<pre align=center>
+<pre style="text-align: center;" align=center>
  
    
 ⬤       •    •       •               •
